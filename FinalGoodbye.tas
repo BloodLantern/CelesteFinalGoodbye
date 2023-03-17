@@ -1,0 +1,10 @@
+RecordCount
+
+#Start
+console load nameguysdsidespack/0/10-Farewell
+   1
+
+#Checkpoints
+read Start.tas
+
+ChapterTime
