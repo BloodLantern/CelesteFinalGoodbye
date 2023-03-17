@@ -1,0 +1,108 @@
+RecordCount: 156
+
+#Start
+console load nameguysdsidespack/0/10-Farewell aa-00-lobby
+   1
+
+#lvl_aa-00-lobby
+***
+  36
+***
+   8,R,U,X
+   1,R,J,G
+  16,R
+   4,R,Z
+   1,R,J
+   7,R
+***
+   1,R,J
+  18,R
+   2,R,J
+  10,R
+   1,R,J
+  13,R
+  40
+
+#lvl_aa-01
+***
+   3
+   1,R
+   1,R,J
+  18,R
+  20,R,D
+   4,R
+  15,R,X
+  53,R
+  22,R,U,Z
+***
+  17,R
+  15,R,D,X
+   1,R
+***
+   3,R,J
+  11,R
+  14,R,Z
+***S
+  12,R,J
+   5,R
+  13,R,J
+   2,R
+  37,G
+***
+  10
+  10,D
+***
+  11,R,Z
+  27,R
+  15,R,X
+   1,R
+   1,S
+   1,D,J
+   1
+   1,J
+***
+  68
+***S
+   6,R,Z
+   1,L,J
+   5,L
+  40
+
+#lvl_aa-00-lobby
+***
+   2,L
+  12,L,J
+   0,L
+  15,L,D,X
+   1,L,J
+   4,L
+***S
+   1
+   2,J
+  12,L,K,G
+  12,U,X
+  15,L,J
+   8,L
+   5,L,J
+   5,L,K,G
+   7,L
+   4,L,X
+   3,L,J
+   1,L,K,G
+   3,L
+  40
+
+#lvl_aa-03
+***
+   3
+   4,L
+  14,L,D,X
+   4,L,J
+   8,L
+  13,G
+***
+  21,L,U,G
+   5,L
+  12,U,X
+  13,G
+  40
