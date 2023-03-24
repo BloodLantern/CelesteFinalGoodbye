@@ -1,41 +1,31 @@
-RecordCount: 942
+RecordCount: 967
 
 #Start
 console load nameguysdsidespack/0/10-Farewell c-02
    1
 
 #lvl_c-02
-***S
   36
-***S
   10,R,Z
   12,R,J
    1,R
-***
    8,R,J
-***
   10,R,D,X
   12,R,J
    1,R
-***
    9,R,J
-***
   10,R,D,X
   10,R,J
-***
   18,R,X
   15,U,C
   15,R,U,X
   22,R
    2,R,D
   15,D
-***
   18,R
   15,R,D,X
-***
    4,R
    5,R,D
-***
    1,R,J,G
   13,R
    2,R,J
@@ -50,9 +40,7 @@ console load nameguysdsidespack/0/10-Farewell c-02
    4,R
   14,U,X
   11,R,J
-***
   14,R,Z
-***
    2,R,J
    1,R
   11,R,J
@@ -62,7 +50,6 @@ console load nameguysdsidespack/0/10-Farewell c-02
    3
   15,D,X
    5,R
-***S
    4,R,Z
    1,R,J
   12,R,D
@@ -70,16 +57,13 @@ console load nameguysdsidespack/0/10-Farewell c-02
   40
 
 #lvl_c-03
-***
    4,R,J
   12,U,X
    6,R,J
    4,R,K,G
-***
    4,R
    1,R,J,G
    8,R
-***
   11,R,X
   11,R,C
   15,R,D,X
@@ -88,7 +72,6 @@ console load nameguysdsidespack/0/10-Farewell c-02
   15,R,C
    7,R
   15,R,X
-***
   29,R
    1,R,J,G
    1,R,K,G
@@ -96,33 +79,27 @@ console load nameguysdsidespack/0/10-Farewell c-02
   40
 
 #lvl_cc-00-lobby
-***
    3
    1,R
    4,R,Z
    1,R,J
-***
    3,R,J
    1,R
    4,R,J
    0,R
-***
    1,R,J,G
   13,R
    1,R,J
    1,R
   11,D,X
    4,L,J,G
-***
   10,R,D,C
    1,J
    9
    9,D,X
-***
   40
 
 #lvl_cc-03
-***S
    2,D
    7,L,D
    4,L,Z
@@ -136,11 +113,9 @@ console load nameguysdsidespack/0/10-Farewell c-02
    4
   15,D,X
    1,L,J
-***
    4,L
   15,D,X
    2,D
-***
   13,R,D
    4,R,Z
   12,R,J
@@ -149,37 +124,29 @@ console load nameguysdsidespack/0/10-Farewell c-02
    2,R
   19
   77
-***S
    6,R,J
   24,R
    2
    3,R,K,G
   22,R
    6
-***
   94
-***
   10
   11,R,D
   24,D
    7,L,J
   17,L
-***
    7,L,X
   20
   77
-***S
    5,R
   15,R,Z
-***
   13
    3,R
    1,R,J,G
    7,R,K,G
-***
   22,R
   31
-***
   20,L
    9
   77
@@ -187,41 +154,32 @@ console load nameguysdsidespack/0/10-Farewell c-02
    7,R
    8,G
   77
-***S
    1
   37,R
-***
    2,R,J,G
   15,R
    8,R,J
-***
   10,L,D,X
    9,R,J
    3,R
   12
-***
 Repeat 52
    1,G
    1
 EndRepeat
-***
    1
-***
   15,R,X
   14,R
    1
    9
   77
-***S
   11,U,X
   40
 
 #lvl_cc-00-lobby
-***
   16,R
   10,R,J
    2,R
-***
    9,R,U,X
    1,R,J,G
   12,R
@@ -233,27 +191,20 @@ EndRepeat
   40
 
 #lvl_cc-01
-***
    5,R
-***
    1,L,J
   15,D,X
-***
    2,L,D
-***
    1,L,J
   15,D,X
   10,L,Z
    1,R,J
    4,R
   15,D,X
-***
   10,L,C
-***
   12,R,J
    5,R
   10,R,J
-***
    4,R
   15,U,X
    2,R
@@ -261,7 +212,6 @@ EndRepeat
    4,R
    3
   10,R
-***
    8
   12,D
   10,L,D,X
@@ -280,22 +230,18 @@ EndRepeat
   40
 
 #lvl_cc-00-lobby
-***S
    5,L
    3,L,J
   15,U,X
   11,R,J,G
-***
    7,R
    6,L,Z
    4,R,J
-***
    1,R,K,G
    7,R
   40
 
 #lvl_cc-02
-***S
    3,R
    7,R,J
    5,R
@@ -317,7 +263,6 @@ EndRepeat
    4,R
   15,D,X
   15,R,D,C
-***
   15,D,X
   10,D
    2,L,D
@@ -327,7 +272,6 @@ EndRepeat
   13,R
   15,U,X
   21,R
-***
   13,R,X
   12,R,J
    5,R
@@ -341,34 +285,28 @@ EndRepeat
   28,R
   19
   77
-***S
    8,L,D,X
    1,L,J
    7,L
   40
 
 #lvl_cc-00-lobby
-***
   10,L,J
   14,U,X
   15,J
-***
    4
    7,L,J,G
-***
    7,L
    6,L,X
   17,R
    8,R,U,X
    8,R,J,G
-***
    4,R
    1,R,J,G
    9,R
   40
 
 #lvl_cc-04
-***
    2,R
    1
    1,R,J
@@ -379,9 +317,7 @@ EndRepeat
   14,R,Z
   12,R,J
    1,R
-***
    7,R
-***
   12,R,Z
    1,R,J
    7,R
@@ -389,33 +325,26 @@ EndRepeat
    5,R
   10,R,J
    5,R
-***
   15,R,U,X
   10,R
    2
-***S
    2,R,J,G
   11,R
   15,R,X
   15,L,D,C
    8,D
    3,R,D
-***
   14,R,Z
   12,R,J
    5,R
   10,R,J
-***
   17,R
   15,R,U,X
-***
   12
   14,R,X
   11,R,J
-***
   21,R
   12,R,U,Z
-***
   19
   77
   15,D,X
@@ -428,34 +357,26 @@ EndRepeat
   40
 
 #lvl_cc-00-lobby
-***S
   40,L
    1,L,J,G
   17,L
    1
-***
    7,D
-***
    3
    4,L
   15,L,Z
    7,L
    7,L,J,G
-***
    8,L,K,G
   11,L
   12,J
-***
    2
   89,R,G
   12,L,J
    1,L
-***
    6,R,J
   12,R
-***
  103
-***
   12,J
   12,L,U,Z
    1,L,J,G
@@ -463,13 +384,11 @@ EndRepeat
   40
 
 #lvl_cc-05
-***S
    4,L
    1,L,J
   15,D,X
   20,L,D
   10,L,X
-***
    5,L,J
    4,L,K,G
   14,L,X
@@ -479,7 +398,6 @@ EndRepeat
   15,U,X
   40,L
    2
-***
    2,L,J,G
   10,L
   10,L,Z
@@ -491,16 +409,13 @@ EndRepeat
    9,L
    4,L,Z
    8,L,J
-***
    5,L
    8,L,J
    9,L,Z
    1,L,J
    7,L
-***
   12,L,J
   19,L
-***
   15,D,X
   10,R,C
   12,L,J
@@ -521,7 +436,6 @@ EndRepeat
   12,L,J
   22,L
   15,D,X
-***S
   10,R,C
   12,L,J
    5,L
@@ -548,22 +462,18 @@ EndRepeat
   40
 
 #lvl_cc-00-lobby
-***
    1,R
   14,U,X
   15,J
-***
    7,R
    6,J,G
   10,R
  100
-***
    4,L,X
   12,L,J
    1,L
  109
   14,U,X
-***
   13,J
    2,R,J
    4,R
@@ -571,7 +481,6 @@ EndRepeat
   40
 
 #lvl_cc-06
-***S
   11
    3
   11,R,X
@@ -579,14 +488,11 @@ EndRepeat
   13
   10,L,X
    8,R,J
-***
   20,R
-***
   12
   10,R,D,X
   12,R,J
    1,R
-***
    9,R,J
   15,U,X
    5,R
@@ -595,29 +501,23 @@ EndRepeat
   10,R,Z
   12,L,J
    1,L
-***
    3,L,J
   14,U,X
    7,J
   40
 
 #lvl_cc-07
-***
    4,R,J
    1,R,K,G
-***
   12,R
   12,R,J
    5,R
-***
    4,R,J
-***
    8,R,U,X
    1,J,G
   13
    1,L,J
    1,L
-***
   10,R,D,X
   12,R,J
    1,R
@@ -629,28 +529,22 @@ EndRepeat
    9,R
   14,R,X
    6,R,J
-***
    6,R
    1,R,J
    3,R,K,G
-***
   37,R
   15,R,Z
-***
    4
    8,L,J,G
    8,L
   10,L,Z
   12,R,J
    1,R
-***
    8,R,J
    8,U,X
   11,R,J
-***
   29,R
    3,R,J
-***
   22,R
   14,R,D,X
   10,R,J
@@ -658,7 +552,6 @@ EndRepeat
   12,R,J,G
    2,R
   15,R,D,X
-***
    3,R
   14,R,Z
   12,R,J
@@ -670,17 +563,14 @@ EndRepeat
    1
    7,J
    5
-***
   18
   12,R
-***
    2,R,D
   14,R,Z
   12,R,J
    1,R
   11,R,J
   12,R
-***
   15,R,X
   14,R
   15,R,U,X
@@ -690,7 +580,6 @@ EndRepeat
    7,R
    4,R,Z
    6,R,J
-***S
    4,R
   12,R,J
    3,R
@@ -698,22 +587,18 @@ EndRepeat
    8,R
   12,R,J
   15,R
-***
   14,R,Z
   12,R,J
    1,R
   11,R,J
   15,R
   15,R,U,X
-***
   44,R
    9,U,X
-***
   15,L,U,C
   12,R,U,X
   15,R,C
    4,R
-***
   15,D,X
    4,R,D
    4,R,Z
@@ -722,27 +607,50 @@ EndRepeat
    1
    1,R,J
    1,J
-***
    8,R,X
    1,R,J,G
    9,R
   40
 
 #lvl_cc-08
-***S
    2,R
    1,R,J
    6,R
   15,D,X
    3,R,D
    6,R,J
-   5,R
-***
+   6,R
   10,L,D,X
   12,R,J
    1,R
   11,R,J
    5,R
   15,R,U,X
-  26,R
+  30,R
+   2
+  12,J,G
+  12,K,G
+   5,J,G
+   7,R
+  11,R,X
+  19
+  77
+  10,R
+   5,R,J
+  10,L,D,X
+  12,R,J
+   1,R
+  11,R,J
+   9,R
+  15,R,U,X
+  21,R
+   2
+  12,J,G
+   9,K,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  10,R
   40
