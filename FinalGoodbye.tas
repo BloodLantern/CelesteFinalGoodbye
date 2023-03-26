@@ -1,10 +1,15 @@
-RecordCount
+RecordCount: 6
 
-#Start
-console load nameguysdsidespack/0/10-Farewell
-   1
+#Setup
+console hearts 8
+#console load nameguysdsidespack/0/10-Farewell
+#   1
 
 #Checkpoints
-read Start.tas
+#read Start.tas Start
+read 1-PeacefulSolitude_2-GlimpseOfFreedom.tas Setup
+   8
+read 3-Curiosity.tas Start
+read 4-Dedication.tas Start
 
 ChapterTime

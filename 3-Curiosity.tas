@@ -1,11 +1,12 @@
-RecordCount: 967
+RecordCount: 978
 
-#Start
+#Setup
 console load nameguysdsidespack/0/10-Farewell c-02
    1
-
-#lvl_c-02
   36
+
+#Start
+#lvl_c-02
   10,R,Z
   12,R,J
    1,R
@@ -37,28 +38,29 @@ console load nameguysdsidespack/0/10-Farewell c-02
    4,R,J
    3
    7,R,J
-   4,R
-  14,U,X
-  11,R,J
+   6,R
+  15,U,X
+  12,R,J
   14,R,Z
    2,R,J
    1,R
   11,R,J
   11,R
   15,R,Z
-  14,R
+  12,R
    3
   15,D,X
-   5,R
+   4,R
+   2
    4,R,Z
    1,R,J
   12,R,D
-   2,R,D,J
+   1,R,D,J
   40
 
 #lvl_c-03
    4,R,J
-  12,U,X
+  13,U,X
    6,R,J
    4,R,K,G
    4,R

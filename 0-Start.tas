@@ -1,11 +1,13 @@
 RecordCount: 333
 
-#Start
+#Setup
 console load nameguysdsidespack/0/10-Farewell
    1
 
-#lvl_a-00-intro
+#Start
   90
+
+#lvl_a-00-intro
   18,J
   17,U,X
    3,J

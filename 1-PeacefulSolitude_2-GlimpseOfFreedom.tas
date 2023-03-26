@@ -1,14 +1,14 @@
-RecordCount: 2285
+RecordCount: 2374
 
+#Setup
 console hearts 8
-
-#Start
 console load nameguysdsidespack/0/10-Farewell aa-00-lobby
    1
+  36
 
+#Start
 #PeacefulSolitude
 #lvl_aa-00-lobby
-  36
    8,R,U,X
    1,R,J,G
   16,R
@@ -1188,5 +1188,9 @@ EndRepeat
 #lvl_c-02
    4,R
    1,R,J,G
-   8,R
-  15,R,D,X
+   2
+  10,R
+   7
+  10,R
+   2
+  15,D,X
